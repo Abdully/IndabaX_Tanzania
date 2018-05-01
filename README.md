@@ -1,5 +1,5 @@
 # PytzMLS218
-Resources for PytzMLS2018 summer school.
+Resources for Deep learning IndabaX Tanzania (PytzMLS2018) summer school.
 
 **Contents**
 
@@ -9,4 +9,4 @@ Resources for PytzMLS2018 summer school.
 3. Foundation of Deep learning lab
 4. ML for Bioinformatics lab
 5. Deep learning for computer vision lab
-6. Deep learning for sequence model lab
+
